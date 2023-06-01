@@ -1,0 +1,14 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=testpwm.stp
+Dependencies=
+[Options]
+ActiveProject=testpwm
+ActiveConfig=Debug
+AddSortedElements=1
+[.St7McuIcdConf]
+McuName=STM8S105C6
